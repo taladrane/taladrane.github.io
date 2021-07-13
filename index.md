@@ -5,8 +5,8 @@ content still TBD
 
 ### Contact Information
 
-[taladrane@github.com](mailto:taladrane@github.com)
+✉️ : [taladrane@github.com](mailto:taladrane@github.com)
 
-[@taladrane](twitter.com/taladrane)
+🐦 : [@taladrane](https://www.twitter.com/taladrane)
 
-[keybase](https://keybase.io/madisonoliver)
+🔐 : [keybase](https://keybase.io/madisonoliver)
