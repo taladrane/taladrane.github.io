@@ -3,7 +3,7 @@
 content still TBD
 
 
-###Contact Information
+### Contact Information
 
 [taladrane@github.com](mailto:taladrane@github.com)
 
